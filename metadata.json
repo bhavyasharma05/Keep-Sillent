@@ -1,0 +1,5 @@
+{
+  "name": "Web Smart Ringer",
+  "description": "A web application to simulate a 'smart silent' mode for your contacts. Mark contacts as important, and see a special notification when they 'call', even when in silent mode. All data is stored locally in your browser.",
+  "requestFramePermissions": []
+}
